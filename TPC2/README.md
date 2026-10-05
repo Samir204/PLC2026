@@ -4,7 +4,7 @@
 
 - **Name:** Samir Mansour
 - **Student ID:** A105856
-https://github.com/Samir204/PLC2026/blob/b3e55188b2e1ea4fe75a52dcd04147db13e16fbc/image/IMG_4084.png
+![image alt](https://github.com/Samir204/PLC2026/blob/b3e55188b2e1ea4fe75a52dcd04147db13e16fbc/image/IMG_4084.png)
 
 ## Summary
 
