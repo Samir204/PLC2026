@@ -63,7 +63,12 @@ def md_to_html(text):
 if __name__ == '__main__':
     with open("test.md", "r") as file:
         text = file.read()
-    print(md_to_html(text))
+
+    print(text)
+    # this is just to see it in the terminal for debudding 
+    html = md_to_html(text)
+    with open("test.html", "w") as file:
+        file.write(html)
 
 
 
