@@ -29,5 +29,4 @@
 
 - [tpc3.py](lexer.py): the lexical analyser, my solution
 - [example.query](example.query): the query from the assignment
-- [example_tokens.txt](example_tokens.txt): the tokens the lexer prints for `example.query`
 - [errors.query](errors.query): a query with a few deliberate mistakes, to check the error messages
