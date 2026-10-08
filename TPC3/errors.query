@@ -1,0 +1,6 @@
+# a query with a few deliberate mistakes
+select ?x where {
+ ?x foaf:name "Chuck Berry"@en .
+ ?x dbo:born 1940! .
+ ? dbo:artist ?x
+} LIMIT 10 $
